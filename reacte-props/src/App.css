@@ -1,0 +1,20 @@
+img{
+  width: 300px;
+  margin-left: 20px;
+}
+.bio{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.bio p{
+  margin-top: 100px;
+  padding: 60px;
+  
+}
+.link{
+  margin-top: 15px;
+  margin-right: 60px;
+text-align: right;
+
+}
